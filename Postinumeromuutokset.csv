@@ -1,0 +1,21 @@
+Tietuetunnus,Taso,Ajopäivämäärä,Poiminnan alkupäivämäärä,Poiminnan loppupäivämäärä,Vanha postinumero,Vanha postinumeron nimi suomeksi,Vanha postinumeron nimi ruotsiksi,Vanha postinumeron nimen lyhenne suomeksi,Vanha postinumeron nimen lyhenne ruotsiksi,Varalla,Uusi postinumero,Uusi postinumeron nimi suomeksi,Uusi postinumeron nimi ruotsiksi,Uusi postinumeron nimen lyhenne suomeksi,Uusi postinumeron nimen lyhenne ruotsiksi,Kunnan koodi,Kunnan nimi suomeksi,Kunnan nimi ruotsiksi,Hallinnollisen alueen koodi,Hallinnollisen alueen nimi suomeksi,Hallinnollisen alueen nimi ruotsiksi,Muutospäivämäärä,Tapahtumakoodi
+MUUT,1,20200602,20200502,20200601,,,,,,,53504,SMARTPOST,SMARTPOST,,,405,Lappeenranta,Villmanstrand,C5,Etelä-Karjala,Södra Karelen,20200520,3
+MUUT,1,20200602,20200502,20200601,,,,,,,22115,PAKETAUTOMAT,PAKETAUTOMAT,,,478,Maarianhamina,Mariehamn,00,Ahvenanmaa,Åland,20200527,3
+MUUT,1,20200602,20200502,20200601,,,,,,,86404,SMARTPOST,SMARTPOST,,,678,Raahe,Brahestad,D6,Pohjois-Pohjanmaa,Norra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,61104,SMARTPOST,SMARTPOST,,,743,Seinäjoki,Seinäjoki,94,Etelä-Pohjanmaa,Södra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,29254,SMARTPOST,SMARTPOST,,,531,Nakkila,Nakkila,96,Satakunta,Satakunda,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,36114,SMARTPOST,SMARTPOST,,,211,Kangasala,Kangasala,97,Pirkanmaa,Birkaland,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,91504,SMARTPOST,SMARTPOST,,,494,Muhos,Muhos,D6,Pohjois-Pohjanmaa,Norra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,21624,SMARTPOST,SMARTPOST,,,202,Kaarina,S:t Karins,C1,Varsinais-Suomi,Egentliga Finland,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,90654,SMARTPOST,SMARTPOST,,,564,Oulu,Uleåborg,D6,Pohjois-Pohjanmaa,Norra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,80144,SMARTPOST,SMARTPOST,,,167,Joensuu,Joensuu,D3,Pohjois-Karjala,Norra Karelen,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,64264,SMARTPOST,SMARTPOST,,,231,Kaskinen,Kaskö,95,Pohjanmaa,Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,68374,SMARTPOST,SMARTPOST,,,272,Kokkola,Karleby,D5,Keski-Pohjanmaa,Mellersta Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,63604,SMARTPOST,SMARTPOST,,,010,Alavus,Alavus,94,Etelä-Pohjanmaa,Södra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,39164,SMARTPOST,SMARTPOST,,,980,Ylöjärvi,Ylöjärvi,97,Pirkanmaa,Birkaland,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,63804,SMARTPOST,SMARTPOST,,,759,Soini,Soini,94,Etelä-Pohjanmaa,Södra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,28904,SMARTPOST,SMARTPOST,,,609,Pori,Björneborg,96,Satakunta,Satakunda,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,41234,SMARTPOST,SMARTPOST,,,892,Uurainen,Uurainen,93,Keski-Suomi,Mellersta Finland,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,48704,SMARTPOST,SMARTPOST,,,285,Kotka,Kotka,C4,Kymenlaakso,Kymmenedalen,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,91804,SMARTPOST,SMARTPOST,,,859,Tyrnävä,Tyrnävä,D6,Pohjois-Pohjanmaa,Norra Österbotten,20200522,3
+MUUT,1,20200602,20200502,20200601,,,,,,,70784,SMARTPOST,SMARTPOST,,,297,Kuopio,Kuopio,D2,Pohjois-Savo,Norra Savolax,20200529,3
