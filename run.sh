@@ -20,3 +20,4 @@ process_file() {
 
 process_file "PCF" ${YESTERDAY} "Postinumerotiedosto.csv"
 process_file "BAF" ${YESTERDAY} "Perusosoitteisto.csv"
+process_file "POM" ${YESTERDAY} "Postinumeromuutokset.csv"
