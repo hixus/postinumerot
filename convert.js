@@ -141,7 +141,6 @@ const convert = (line) => {
 
 validateFiles(files);
 
-
 console.log(Object.keys(columns).join(DELIMITER));
 
 rl.on("line", function (line) {
