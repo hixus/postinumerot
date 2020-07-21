@@ -28,7 +28,7 @@ Jos haluat ajaa muunnoskoodia itse, tarvitset vähintään:
 - iconv
 - komentorivi
 
-Muunnos käynnistetään ajamalla `./run.sh`. Tämä tarkistaa löytyykö eilisen päivämäärällä uusia tiedostoja Postin-sivulta. Jos löytyy, koodi lataa tiedostot ja muuntaa ne.
+Katso viimeisimmät tiedostostot postin sivuilta ja päivitä niiden päivämäärät `./run.sh` tiedostoon. Tämän jälkeen aja `./run.sh`.
 
 Koodi on lisensoitu [Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen -lisenssillä.](http://creativecommons.org/licenses/by-sa/4.0/)
 

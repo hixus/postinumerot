@@ -1,6 +1,5 @@
 #!/bin/bash
 BASE_PATH=https://www.posti.fi/webpcode
-YESTERDAY=$(date -v-1d +'%Y%m%d')
 
 process_file() {
     local type=$1
@@ -17,6 +16,6 @@ process_file() {
     fi
 }
 
-process_file "PCF" ${YESTERDAY} "Postinumerotiedosto.csv"
-process_file "BAF" ${YESTERDAY} "Perusosoitteisto.csv"
-process_file "POM" ${YESTERDAY} "Postinumeromuutokset.csv"
+process_file "PCF" "20200721" "Postinumerotiedosto.csv"
+process_file "BAF" "20200718" "Perusosoitteisto.csv"
+process_file "POM" "20200702" "Postinumeromuutokset.csv"
